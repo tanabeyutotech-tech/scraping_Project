@@ -1,0 +1,7 @@
+.env.env\noutput/.env
+.env\noutput/.env
+.env\noutput/.env
+.env
+output/.env
+__pycache__/
+*.pyc
